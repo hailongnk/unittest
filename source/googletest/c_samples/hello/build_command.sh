@@ -1,0 +1,1 @@
+g++ helloc_testsuite.cpp  -lgtest -lgtest_main -lpthread
